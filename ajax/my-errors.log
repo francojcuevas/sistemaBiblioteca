@@ -1,0 +1,1 @@
+Cannot delete or update a parent row: a foreign key constraint fails (`sistemabiblioteca`.`prestamo`, CONSTRAINT `fk_prestamo_libro` FOREIGN KEY (`idlibro`) REFERENCES `libro` (`idlibro`))
